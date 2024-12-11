@@ -9,3 +9,4 @@
 8. bgp.h.net  asn num
 9. shodan asn:AS3303
 10. censys
+11. whois
